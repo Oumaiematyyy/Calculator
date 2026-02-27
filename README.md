@@ -37,5 +37,5 @@ Elle gère correctement les nombres décimaux et les cas particuliers comme la d
 
 ### Étapes
 1. **Cloner le repository**
-   ```bash
+   https://github.com/Oumaiematyyy/Calculator/tree/main
    
