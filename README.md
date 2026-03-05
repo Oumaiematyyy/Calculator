@@ -5,22 +5,22 @@ A simple calculator in Java
 Une calculatrice graphique développée en Java avec Swing.  
 Projet personnel réalisé dans le cadre de mon apprentissage de la programmation.
 
-## 📝 Description
+## Description
 
 Cette calculatrice permet d'effectuer les opérations arithmétiques de base avec une interface simple et intuitive.  
 Elle gère correctement les nombres décimaux et les cas particuliers comme la division par zéro (retourne `Infinity`, conforme au comportement des doubles en Java).
 
 ### Fonctionnalités
 
-- ➕ Addition  
-- ➖ Soustraction  
-- ✖️ Multiplication  
-- ➗ Division  
-- 🔄 Changement de signe (négatif/positif)  
-- ⏺️ Point décimal  
-- ⌫ Effacer le dernier caractère  
-- 🧹 Réinitialisation (Clr)  
-- 🟰 Calcul du résultat  
+- Addition  
+- Soustraction  
+- Multiplication  
+- Division  
+- Changement de signe (négatif/positif)  
+- Point décimal  
+- Effacer le dernier caractère  
+- Réinitialisation (Clr)  
+- Calcul du résultat  
 
 ## Technologies utilisées
 
